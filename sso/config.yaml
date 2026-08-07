@@ -1,0 +1,6 @@
+﻿env: "local"
+storage_path: "./storage"
+token_ttl: 24h
+grpc:
+  port: ":8080"
+  timeout: 5s
